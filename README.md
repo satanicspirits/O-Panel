@@ -4,7 +4,7 @@
 
 # X Panel SSH User Management
 
-### پنل مدیریت و فروش VPN  با پروتکل SSH
+### پنل مدیریت پروتکل SSH
 
 **امکانات**
 <br>
