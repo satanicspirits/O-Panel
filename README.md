@@ -1,5 +1,5 @@
 <p dir="auto">
-<img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/Alirezad07/X-Panel-SSH-User-Management">
+<img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/satanicspirits/O-Panel">
 </p>
 
 # X Panel SSH User Management
