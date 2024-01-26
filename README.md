@@ -38,12 +38,12 @@ Debian 8+ <br>
 
 برای نصب و بروز رسانی می توانید از دستور زیر  استفاده کنید
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/Alirezad07/X-Panel-SSH-User-Management/master/install.sh --ipv4)
+bash <(curl -Ls https://raw.githubusercontent.com/satanicspirits/O-Panel/master/install.sh --ipv4)
 ```
 
 حل مشکل عدم ارتباط  تماس صوتی و تصویری در اپلیکشن
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/Alirezad07/X-Panel-SSH-User-Management/master/fix-call.sh --ipv4)
+bash <(curl -Ls https://raw.githubusercontent.com/satanicspirits/O-Panel/master/fix-call.sh --ipv4)
 ```
 دستور بالا را در ترمینال وارد کنید سپس برای UDPGW پورت جدید تعریف کنید بهتر است به جای پورت 7300 پورت 7301 یا 7302 را تنظیم کنید
 <br>
@@ -52,11 +52,11 @@ bash <(curl -Ls https://raw.githubusercontent.com/Alirezad07/X-Panel-SSH-User-Ma
 ## بهینه سازی سرور
 نصب و حذف تنظیمات با دستور زیر 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/Alirezad07/X-Panel-SSH-User-Management/main/TCP-Tweaker --ipv4)
+bash <(curl -Ls https://raw.githubusercontent.com/satanicspirits/O-Panel/main/TCP-Tweaker --ipv4)
 ```
 ## فعال سازی SSL
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/Alirezad07/X-Panel-SSH-User-Management/main/ssl.sh --ipv4)
+bash <(curl -Ls https://raw.githubusercontent.com/satanicspirits/O-Panel/main/ssl.sh --ipv4)
 ```
 با استفاده از دستور بالا می توانید SSL را روی پنل نصب نمائید. به نکات زیر توجه کنید <br>
 1- حتما قبل از نصب SSL پنل را بروز کنید<<br>
@@ -66,13 +66,13 @@ bash <(curl -Ls https://raw.githubusercontent.com/Alirezad07/X-Panel-SSH-User-Ma
 SSL بر روی پورتی که روی پنل تعریف کرده اید نصب فعال شد. <br>
 
 <picture>
-<img alt="XPanel" src="https://raw.githubusercontent.com/Alirezad07/X-Panel-SSH-User-Management/main/xp1.jpg">
+<img alt="XPanel" src="https://raw.githubusercontent.com/satanicspirits/O-Panel/main/xp1.jpg">
 </picture>
 
 <picture>
-<img alt="XPanel" src="https://raw.githubusercontent.com/Alirezad07/X-Panel-SSH-User-Management/main/xp2.jpg">
+<img alt="XPanel" src="https://raw.githubusercontent.com/satanicspirits/O-Panel/main/xp2.jpg">
 </picture>
 
 <picture>
-<img alt="XPanel" src="https://raw.githubusercontent.com/Alirezad07/X-Panel-SSH-User-Management/main/xp3.jpg">
+<img alt="XPanel" src="https://raw.githubusercontent.com/satanicspirits/O-Panel/main/xp3.jpg">
 </picture>
